@@ -25,8 +25,6 @@ Welcome to my GitHub profile 👨‍💻✨
 - 📧 dhvarilgajjar19@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/dhvarilgajjar
 
-😄 Pronouns: He/Him 
-
 ⚡ Fun fact:
 I’m building a rideable robotic horse 🐎 with AI-powered emotions and modular design—just like in sci-fi movies!  
 Also, I love making robots that dance 🤖🕺
